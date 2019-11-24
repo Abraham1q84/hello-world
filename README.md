@@ -7,3 +7,9 @@ OK, look like now I know how to use github this is the flow: 1.- Commit. Basical
 
 What's wrong here?
 
+
+OK, look like now I know how to use github this is the flow:
+1.- Commit. Basically I will make all the changes to my code here.
+2.- Open a Pull request. I'm proposing some changes to someone review. During this step my coworker will see the diference between my own branch and master branch.
+3.- Merge the Pull request. Once the code was reviewed by a coworker, it's time to merge all the changes.
+
